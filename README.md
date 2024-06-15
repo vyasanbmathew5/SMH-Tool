@@ -5,7 +5,7 @@
 This repository is no longer maintained. The last update was in 2020, and there are no plans for future updates or support. The content here is provided "as-is" without any guarantees. 
 
 
-[support me](https://www.github.com/vyasanbmathew5)
+[support me](https://www.github.com/rdWei)
 
 ---
 
@@ -25,15 +25,15 @@ Social Media Hacking Toolkit
  
 
  <h6><p align="center">
-    perform different types of <a href="https://github.com/vyasanbmathew5/SMH-Tool/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/vyasanbmathew5/SMH-Tool/blob/main/cmd/supported-social.txt">social media</a>
+    perform different types of <a href="https://github.com/rdWei/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/rdWei/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
 </p></h6>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/release-v0.3.3-141449" alt=""/>
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
-  <img src="https://img.shields.io/badge/author-vyasanbmathew5-141449" alt=""/>
+  <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
  <h6><p align="center" style="color:yellow">
-    <i>please read at least the section regarding <a href="https://github.com/vyasanbmathew5/SMH-Tool#Trustability">trustability</a>
+    <i>please read at least the section regarding <a href="https://github.com/rdWei/SocialMediaHackingToolkit#Trustability">trustability</a>
 </i></a>
 </p></h6>
 
@@ -41,7 +41,7 @@ Social Media Hacking Toolkit
 
 <h3><p align="center">Disclaimer</p></h3>
 
-The <b>SMH-Tool</b> on GitHub is for <i>educational purposes</i> only. I take no responsibility for its usage by third parties, and any <i>illegal activities</i> are strictly prohibited. Users must <i>comply</i> with security and privacy policies of social media platforms and obtain proper <i>authorization</i>. The toolkit may contain potentially <i>harmful materials</i>. Use at your own <i>risk</i>, adhering to relevant <i>laws and regulations</i>.
+The <b>SocialMediaHackingToolkit</b> on GitHub is for <i>educational purposes</i> only. I take no responsibility for its usage by third parties, and any <i>illegal activities</i> are strictly prohibited. Users must <i>comply</i> with security and privacy policies of social media platforms and obtain proper <i>authorization</i>. The toolkit may contain potentially <i>harmful materials</i>. Use at your own <i>risk</i>, adhering to relevant <i>laws and regulations</i>.
 
 
 <div align="center">
@@ -73,9 +73,9 @@ this section explains how to install and run the tool on:<br> ubuntu, arch, void
 <h5><p align="center">Ubuntu / Debian</p></h3>
 
 ```
-git clone https://github.com/vyasanbmathew5/SMH-Tool
+git clone https://github.com/rdWei/SocialMediaHackingToolkit
 
-cd SMH-Tool
+cd SocialMediaHackingToolkit
 
 cd dependencies
 
@@ -98,9 +98,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/vyasanbmathew5/SMH-Tool
+git clone https://github.com/rdWei/SocialMediaHackingToolkit
 
-cd SMH-Tool
+cd SocialMediaHackingToolkit
 
 yay install windscribe-cli
 
@@ -123,9 +123,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/vyasanbmathew5/SMH-Tool
+git clone https://github.com/rdWei/SocialMediaHackingToolkit
 
-cd SMH-Tool
+cd SocialMediaHackingToolkit
 
 cd dependencies
 
@@ -148,9 +148,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/vyasanbmathew5/SMH-Tool
+git clone https://github.com/rdWei/SocialMediaHackingToolkit
 
-cd SMH-Tool
+cd SocialMediaHackingToolkit
 
 cd dependencies
 
@@ -173,15 +173,9 @@ chmod +x linux.sh
 
 
 ```
-pkg install git -y
+git clone https://github.com/rdWei/SocialMediaHackingToolkit
 
-pkg install python3 -y
-
-pkg up -y
-
-git clone https://github.com/vyasanbmathew5/SMH-Tool
-
-cd SMH-Tool
+cd SocialMediaHackingToolkit
 
 cd cmd
 
@@ -339,11 +333,13 @@ you can verify that the program works by testing it on **your profile**, open th
   <img src="images/issues.gif" alt=""/>
 </p>
 
-If you have encountered an issue with SMH-Tool or would like to suggest an improvement, please report it in our [Issues section](https://github.com/vyasanbmathew5/SMH-Tool/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
+If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/rdWei/SocialMediaHackingToolkit/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
 
 <br>
 
 
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=rdWei/socialmediahackingtoolkit&type=Date)](https://star-history.com/#rdWei/socialmediahackingtoolkit&Date)
 
