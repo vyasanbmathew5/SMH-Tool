@@ -31,7 +31,7 @@ Social Media Hacking Toolkit
 <p align="center">
   <img src="https://img.shields.io/badge/release-v0.3.3-141449" alt=""/>
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
-  <img src="https://img.shields.io/badge/author-vyasanbmathew5-141449" alt=""/>
+  <img src="https://img.shields.io/badge/author-𝐕𝐲𝐚𝐬𝐚𝐧 𝐁 𝐌𝐚𝐭𝐡𝐞𝐰-141449" alt=""/>
  <h6><p align="center" style="color:yellow">
     <i>please read at least the section regarding <a href="https://github.com/vyasanbmathew5/SMH-Tool#Trustability">trustability</a>
 </i></a>
